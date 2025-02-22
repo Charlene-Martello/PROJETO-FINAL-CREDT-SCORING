@@ -57,6 +57,7 @@ Este projeto é o último do meu curso **Profissão Cientista de Dados** realiza
 
 ## **Regressão Logística - Parte 4**
 - **Demonstração do funcionamento do Streamlit** por meio de um vídeo.
+[Regressão logística - parte 4.webm](https://github.com/user-attachments/assets/3d9ae4f7-c018-4e32-a3c9-dcce69ccd327)
 
 ---
 
